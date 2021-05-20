@@ -1,0 +1,15 @@
+{
+  "name": "FE-Weekly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:linbudu599/FE-Weekly.git",
+  "author": "Linbudu <48507806+linbudu599@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
+  },
+  "dependencies": {
+    "vitepress": "^0.13.2"
+  }
+}

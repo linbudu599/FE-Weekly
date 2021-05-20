@@ -75,4 +75,4 @@
   })();
   ```
 
-  另外，在Vite的预编译优化与模块地址重写中，也使用了es-module-lexer来分析依赖关系，见[node/optimizer/scan.ts](es-module-lexer)、[node/plugins/importAnalysis.ts](https://github.com/vitejs/vite/blob/d36e10ed99fe765a5f25268bdf8252fe0b026701/packages/vite/src/node/plugins/importAnalysis.ts)。
+  另外，在Vite的预编译优化与模块地址重写中，也使用了es-module-lexer来分析依赖关系，见[node/optimizer/scan.ts](https://github.com/vitejs/vite/blob/d36e10ed99fe765a5f25268bdf8252fe0b026701/packages/vite/src/node/plugins/importAnalysis.ts#L7)、[node/plugins/importAnalysis.ts](https://github.com/vitejs/vite/blob/d36e10ed99fe765a5f25268bdf8252fe0b026701/packages/vite/src/node/plugins/importAnalysis.ts)。

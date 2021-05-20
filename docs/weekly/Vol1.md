@@ -16,13 +16,10 @@
 
 - [rome](https://github.com/rome/tools)
 
-  一套新的前端工具链，开发团队的意图在于整合目前前端分散到各个不同库的能力：编译、构建、格式化、代码规范、单元测试。并且不是简单的**整合**，它不会基于已有的这些工具如Babel、ESLint、Webpack等，Rome的想法是从零开始。**事实上，Rome这个库没有任何依赖...，一个都没有。** 作者从零实现了非常多的基础库，如下图中的formatter、html-parser、js的ast相关等。
+  一套新的前端工具链，开发团队的意图在于整合目前前端分散到各个不同库的能力：编译、构建、格式化、代码规范、单元测试。并且不是简单的**整合**，它不会基于已有的这些工具如Babel、ESLint、Webpack等，Rome的想法是从零开始。**事实上，Rome这个库没有任何依赖...，一个都没有。** 作者从零实现了非常多的基础库，如formatter、html-parser、js的ast相关等。
 
   
 
-  ![image-20210505213324185](C:%5CUsers%5C96457%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210505213324185.png)
-
-  
 
   我并不太认为它能够撼动Babel、ESLint的地位，除非它能够像Vite、Snowpack一样带来船新的开发体验。
 

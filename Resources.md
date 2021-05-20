@@ -1,28 +1,4 @@
-### 工程化
-
-
-
-- nx-plugin-esbuild
-
-
-
-### Node
-
-
-
-
-
-### React
-
-
-
-
-
-### 其他
-
-
-
+- nx-esbuild
+- cosmiconfig
+- np
 - fx
-
-  
-- np/release-it
