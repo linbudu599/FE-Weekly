@@ -26,7 +26,7 @@
 
 - [esbuild-plugin-alias-path](https://www.npmjs.com/package/esbuild-plugin-alias-path)，还是我写的ESBuild插件！其实吧，这些ESBuild插件都是副产品，但是后面感觉可以抽出来单独发布就这么做了。这个插件用于处理alias以及tsconfig-paths，基本上如果想要用ESBuild来编译一个完整的Nest应用，decorator、run以及alias-path是必不可少的（还有一个今天刚发布的[node-externals](https://www.npmjs.com/package/esbuild-plugin-node-externals)）。
 
-- https://reactive.how/，可视化展示RxJS中操作符的作用，以及Observable对象在管道中的流动情况，非常适合初学RxJS时对 **响应式编程** 建立基本概念。
+- [https://reactive.how/](https://reactive.how/)，可视化展示RxJS中操作符的作用，以及Observable对象在管道中的流动情况，非常适合初学RxJS时对 **响应式编程** 建立基本概念。
 
 - [superjson](https://github.com/blitz-js/superjson)，[BlitzJS](https://blitzjs.com/)作者的作品，用于处理JSON中带有Date、Map、Set、BigInt的情况，原生的JSON.stringify并不支持这些，因此superjson在其基础上做了封装。作者的最初思路来自于NextJS的`getServerSideProps`等方法不支持传递Date这些日期对象，但Blitz基于Next+GraphQL，在GraphQL中是存在着Date等一系列特殊标量的，所以作者就自己动手整了个。
 
