@@ -7,7 +7,7 @@ const getArticles = () => {
     .map((a) => a.split(".")[0])
     .map((a) => ({
       text: `前端周刊-${a}`,
-      link: `/weekly/${a.toLocaleUpperCase()}`,
+      link: `/weekly/${a}`,
     }));
 };
 
