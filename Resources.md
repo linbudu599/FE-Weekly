@@ -1,4 +1,15 @@
-- nx-esbuild
-- cosmiconfig
-- np
-- fx
+- https://github.com/nestjsx
+- genql
+- strapi
+- https://github.com/benlesh/rxjs-for-await
+- https://github.com/pubkey/rxdb
+- https://github.com/Urigo/graphql-modules
+- https://github.com/MichalLytek/typegraphql-prisma
+
+- https://github.com/timhall/svelte-apollo
+- https://github.com/APIs-guru/graphql-lodash
+- https://github.com/slicknode/graphql-query-complexity
+- https://github.com/marmelab/json-graphql-server
+- https://github.com/rrousselGit/provider
+- https://github.com/mswjs/msw
+- https://github.com/benawad/node-graphql-benchmarks
