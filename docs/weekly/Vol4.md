@@ -28,7 +28,7 @@
 
   
 
-- [ts-results](https://github.com/vultix/ts-results)，TypeScript的Rust Results实现。在Rust中，Result是一种用于处理错误的方式，我们用TS的角度来理解，Result接受两个泛型，i的一个为正确的返回值的变量类型，第二个则为错误的返回值的类型。
+- [ts-results](https://github.com/vultix/ts-results)，TypeScript的Rust Results实现。在Rust中，Result是一种用于处理错误的方式，我们用TS的角度来理解，Result接受两个泛型，第一个为正确的返回值的变量类型，第二个则为错误的返回值的类型。
 
   ```rust
   enum Result<T, E> {
